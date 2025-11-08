@@ -4,7 +4,7 @@ Welcome to my Certifications Repository, where I’ve compiled all my verified c
 
 This repository reflects my continuous journey of learning and mastering modern data-driven technologies and frameworks that power real-world AI solutions.
 
-#🌟 Goals
+# Goals
 
 Strengthen expertise in AI and Data Science applications
 
